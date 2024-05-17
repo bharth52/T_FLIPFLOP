@@ -1,3 +1,4 @@
+# aim
 # T_FLIPFLOP
 ![image](https://github.com/RESMIRNAIR/T_FLIPFLOP/assets/154305926/74140ea2-0b93-4ffc-b38b-527fb2ece133)
 # Truth Table
